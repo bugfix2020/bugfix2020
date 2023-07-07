@@ -11,7 +11,7 @@
 ### 个人简介
   - 全栈偏前端
   - 重度TypeScript使用者、严重的代码洁癖、强类型语言坚定的拥护者
-  - 开源组件库[dk-plus](https://github.com/dk-plus-ui/dk-plus-ui)开发者
+  - 开源组件库[dk-plus-ui](https://github.com/dk-plus-ui/dk-plus-ui)开发者
   - 集团[中台工具库](https://www.npmjs.com/package/@bugfix2019/utils)开发者
   - 集团[通用组件](https://www.npmjs.com/package/hashii-account)开发者
 
