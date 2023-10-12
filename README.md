@@ -5,7 +5,6 @@
  - [京东集团] 资深前端架构师 [君衍](https://github.com/isMrFan)
  - [***集团] 技术总监/资深后端工程师 [Vingo](https://github.com/VingoYang)
  - [天下秀数字科技集团] 资深后端工程师 [dot1024](https://github.com/dot1024)
- - [**集团] 资深golang工程师 [dongming](https://github.com/DMingGu)
  - [**集团] 资深架构师 [louis-tru](https://github.com/louis-tru)
  - [**集团] 高级前端开发工程师 [MagnumGoYB](https://github.com/MagnumGoYB)
  - [**集团] 高级前端开发工程师 [qq2321584752](https://github.com/qq2321584752)
