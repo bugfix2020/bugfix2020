@@ -29,7 +29,7 @@
 ### 参与项目💻
   - `参与开发` 适用于Vue3的开源组件库 [dk-plus-ui](https://github.com/dk-plus-ui/dk-plus-ui)
   - `主导开发` 适用于React16/17/18（兼容ClassCompment）的集团 [中台工具包](https://www.npmjs.com/package/@bugfix2019/utils)
-  - `主导开发` 适用于React18（仅支持Functional）集团 [通用组件](https://www.npmjs.com/package/hashii-account)
+  - `主导开发` 适用于React18（仅支持Functional）的集团 [通用组件](https://www.npmjs.com/package/hashii-account)
   - `完全开发` 适用于React18的中后台模板(基于CRA的CustomTemplate) 内置了[recoil](https://recoiljs.org/)、[react-router-dom](https://reactrouter.com/)、[pro-components](https://procomponents.ant.design/)、权限、layout、hook、支持自定义中间件。开箱即用 [cra-template-polaris](https://www.npmjs.com/package/@bugfix2019/cra-template-polaris) 
   - `完全开发` 适用于vue2/3版本的全自动化Cli `暂未发布至npm 仅部门内部使用`
     
