@@ -6,7 +6,7 @@
  - [***集团] 技术总监/资深后端工程师 [Vingo](https://github.com/VingoYang)
  - [天下秀数字科技集团] 资深后端工程师 [Jerome Wang](https://github.com/dot1024)
  - [**集团] 资深架构师 [louis.chu](https://github.com/louis-tru)
- - [**集团] 高级前端开发工程师 [MagnumGoYB](https://github.com/MagnumGoYB)
+ - [**集团] 高级前端开发工程师 [YB](https://github.com/MagnumGoYB)
  - [**集团] 高级前端开发工程师 [qq2321584752](https://github.com/qq2321584752)
  - [**集团] 后端架构师 [azhqiang](https://github.com/NoUserNames)
  - 中级前端开发工程师 [英杰](https://github.com/WangYingJay)
